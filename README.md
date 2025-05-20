@@ -1,8 +1,7 @@
 
 # YouTube Sub Bot
 
-This is a Python-based tool that automates YouTube subscriptions and likes using real Google account cookies. It includes a live cookie refresher and supports proxy usage.
-
+Python based tool that does youtube subs and youtube likes. Includes a cookie refresher for refreshing cookies, the main purpose of this was for my server subsavr which was a discord bot, I ended the project early due to another project i have spent 100% of my time on. Devs you can add me on discord: z4mb1ee . 
 ## Features
 
 - Supports two modes: `sub` (subscribe to a channel) and `like` (like a specific video)
