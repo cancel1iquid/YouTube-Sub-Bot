@@ -1,11 +1,11 @@
 
 ## Star Goals
 
-| ⭐ Goal        | Unlocks                                   | Status   |
-|---------------|--------------------------------------------|----------|
-| 50 Stars      | Add YouTube **Comment Bot**               | 🔒 Locked |
-| 100 Stars     | Release **Discord Bot Source**            | 🔒 Locked |
-| 250 Stars     | Release **Gmail Generator**               | 🔒 Locked |
+| ⭐ Goal        | Unlocks                                        | Status |
+|---------------|------------------------------------------------|----|
+| 50 Stars      | Add YouTube **Comment Bot**                    | 🔒 |
+| 100 Stars     | Release **Discord Bot Source**                 | 🔒 |
+| 250 Stars     | Release **Gmail Generator / UD Chrome Driver** | 🔒 |
 
 Please star and follow (:
 
