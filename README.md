@@ -1,4 +1,13 @@
 
+## Star Goals
+
+| ⭐ Goal        | Unlocks                                   | Status   |
+|---------------|--------------------------------------------|----------|
+| 50 Stars      | Add YouTube **Comment Bot**               | 🔒 Locked |
+| 100 Stars     | Release **Discord Bot Source**            | 🔒 Locked |
+| 250 Stars     | Release **Gmail Generator**               | 🔒 Locked |
+Please star and follow (:
+
 # YouTube Sub Bot
 
 Python based tool that does youtube subs and youtube likes. Includes a cookie refresher for refreshing cookies, the main purpose of this was for my server subsavr which was a discord bot, I ended the project early due to another project i have spent 100% of my time on. Devs you can add me on discord: z4mb1ee . 
