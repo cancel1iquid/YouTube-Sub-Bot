@@ -68,5 +68,3 @@ Follow the prompts to choose `sub` or `like`, then enter a YouTube channel or vi
 ## Legal Notice
 
 This tool is for testing, research, and educational use only. Use it at your own risk. The developer is not responsible for any misuse or violations of third-party terms.
-
-Lol told chatgpt to make this readme i aint doing allat
