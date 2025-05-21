@@ -1,0 +1,2 @@
+gmail:password:recovery email (recovery email optional)
+gmail|password|recovery email (recovery email optional)
